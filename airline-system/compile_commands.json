@@ -1,0 +1,62 @@
+﻿[
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/Airline.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/Airline.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/BusinessPassenger.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/BusinessPassenger.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/CharterFlight.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/CharterFlight.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/DomesticFlight.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/DomesticFlight.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/EconomyPassenger.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/EconomyPassenger.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/FirstClassPassenger.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/FirstClassPassenger.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/Flight.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/Flight.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/InternationalFlight.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/InternationalFlight.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/main.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/main.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/Passenger.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/Passenger.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/Ticket.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/Ticket.cpp"
+    },
+    {
+        "directory":  "d:/Uni Data/2 SEMESTER/OOP 2 Sem/OOP Assignments/OOP Ass 01 final/airline-system",
+        "file":  "src/Utils.cpp",
+        "command":  "C:/MinGW/bin/g++.exe -std=c++17 -Wall -Wextra -Iinclude -c src/Utils.cpp"
+    }
+]

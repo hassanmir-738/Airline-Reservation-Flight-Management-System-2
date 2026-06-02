@@ -1,0 +1,163 @@
+[FLIGHTS]
+D
+SK101
+Karachi
+Lahore
+2025-08-01 08:00
+150
+120
+5000
+0.05
+---
+D
+SK102
+Lahore
+Islamabad
+2025-08-01 09:30
+120
+120
+4500
+0.05
+---
+I
+SK201
+Islamabad
+Dubai
+2025-08-02 14:30
+200
+175
+15000
+0.12
+1
+---
+I
+SK202
+Karachi
+London
+2025-08-03 22:00
+250
+250
+45000
+0.15
+1
+---
+I
+SK203
+Lahore
+Istanbul
+2025-08-04 16:00
+180
+180
+30000
+0.12
+0
+---
+C
+SK301
+Islamabad
+Skardu
+2025-08-05 07:00
+50
+30
+500000
+AcmeCorp
+---
+C
+SK302
+Karachi
+Gwadar
+2025-08-06 11:00
+30
+30
+300000
+OilCo Ltd
+---
+D
+SK103
+Peshawar
+Karachi
+2025-08-07 13:00
+100
+100
+6000
+0.05
+---
+I
+SK204
+Islamabad
+Riyadh
+2025-08-08 03:00
+220
+220
+20000
+0.12
+1
+---
+D
+SK104
+Quetta
+Lahore
+2025-08-09 15:00
+90
+90
+5500
+0.05
+---
+[PASSENGERS]
+E
+P001
+Ali Khan
+ali@sky.com
+0300-1111111
+0
+---
+B
+P002
+Sara Malik
+sara@sky.com
+0321-2222222
+0
+---
+F
+P003
+Ahmed Raza
+ahmed@sky.com
+0333-3333333
+0
+---
+E
+P004
+Fatima Noor
+fatima@sky.com
+0312-4444444
+0
+---
+B
+P005
+Usman Tariq
+usman@sky.com
+0345-5555555
+0
+---
+E
+P006
+Zainab Ali
+zainab@sky.com
+0300-6666666
+0
+---
+F
+P007
+Hassan Mir
+hassan@sky.com
+0321-7777777
+0
+---
+B
+P008
+Amna Sheikh
+amna@sky.com
+0333-8888888
+0
+---
+[TICKETS]
